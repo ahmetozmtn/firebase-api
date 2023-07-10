@@ -71,6 +71,8 @@ http://127.0.0.1:5000/user/add
 
 ![image](/images/example1.png)
 
+<hr>
+
 Veri tabanında ki document görüntülemek için aşağıda ki URL'e GET istediği atmanız yeterli.
 
 ```shell
@@ -80,6 +82,8 @@ http://127.0.0.1:5000/user/doclist
 **Example**
 
 ![image](/images/example3.png)
+
+<hr>
 
 Veri tabanından document silmek için aşağıda ki URL'e DELETE istediği atmanız yeterli.
 
