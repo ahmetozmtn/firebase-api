@@ -59,7 +59,7 @@ http://127.0.0.1:5000/user/list
 
 **Example**
 
-![image](/images/example2.png)
+![image](/images/example1.png)
 
 <hr>
 
@@ -71,7 +71,7 @@ http://127.0.0.1:5000/user/add
 
 **Example**
 
-![image](/images/example1.png)
+![image](/images/example2.png)
 
 <hr>
 
@@ -162,7 +162,7 @@ http://127.0.0.1:5000/user/list
 
 **Example**
 
-![image](/images/example2.png)
+![image](/images/example1.png)
 
 <hr>
 
@@ -174,7 +174,7 @@ http://127.0.0.1:5000/user/add
 
 **Example**
 
-![image](/images/example1.png)
+![image](/images/example2.png)
 
 To view the documents in the database, send a GET request to the following URL:
 
@@ -199,4 +199,3 @@ http://127.0.0.1:5000/user/delete/<document_id>
 <hr>
 
 Please note that the above URLs assume you are running the project locally on your machine. Modify the base URL accordingly if you are running the project on a different server or port.
-
