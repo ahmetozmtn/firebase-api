@@ -34,7 +34,7 @@ cd firebase-api
 
 ## Kurulum
 
-Firebase'den proje oluşturduktan sonra, `Project settings` sekmesindenden service accounts dan Python'ı seçip **Generate new private key** butonuna basıp API bilgilerini indirin, indirdikten sonra ismini **key.json** yapıp **firebase/api** klasörüne attın.
+Firebase'den proje oluşturduktan sonra, **Project settings** sekmesindenden service accounts dan Python'ı seçip **Generate new private key** butonuna basıp API bilgilerini indirin, indirdikten sonra ismini **key.json** yapıp **firebase/api** klasörüne attın.
 
 <hr>
 
@@ -137,7 +137,7 @@ cd firebase-api
 
 ## Installation
 
-After creating a project on Firebase, go to the `Project settings` tab, select Python from the service accounts, and click the **Generate new private key** button to download the API credentials. Rename the downloaded file to **key.json** and place it in the **firebase/api** folder.
+After creating a project on Firebase, go to the **Project settings** tab, select Python from the service accounts, and click the **Generate new private key** button to download the API credentials. Rename the downloaded file to **key.json** and place it in the **firebase/api** folder.
 
 <hr>
 
